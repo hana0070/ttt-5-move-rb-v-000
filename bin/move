@@ -16,4 +16,4 @@ index = input_to_index
 
 move(board)
 
-display_board
+display_board(index)
