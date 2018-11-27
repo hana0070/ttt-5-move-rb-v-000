@@ -8,5 +8,5 @@ end
 
 # code your input_to_index and move method here!
 def input_to_index(user_input)
-  
+  move = (user_input.to_1) - 1
 end
