@@ -10,5 +10,5 @@ board = [ " ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 puts "Where would you like to go?"
 
-gets.strip
+input = gets.strip
 display_baord
