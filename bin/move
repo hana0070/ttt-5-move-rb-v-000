@@ -3,3 +3,7 @@
 require_relative '../lib/move.rb'
 
 # Code your CLI Here
+
+puts ""
+gets.strip
+display_baord
