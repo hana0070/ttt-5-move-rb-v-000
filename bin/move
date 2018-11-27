@@ -14,4 +14,4 @@ input = gets.strip
 
 index = input_to_index
 
-display_baord
+move(board)
